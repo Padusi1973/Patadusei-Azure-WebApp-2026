@@ -9,7 +9,7 @@
 
     <h1>Azure Java Web Application</h1>
 
-    <h2>Deployment Successful!</h2>
+    <h2>Continuous Deployment Successfully Verified!</h2>
 
     <p>
         This Java 17 web application is hosted on
